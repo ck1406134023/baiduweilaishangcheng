@@ -1,0 +1,31 @@
+
+a{
+	text-decoration: none;
+	color: #555;
+}
+img{
+	border: 0;
+	margin: 0 auto;
+}
+body,h1,h2,h3,h4,h5,h6,ul,ol,li,form,input,textarea{
+  padding:0;
+  margin:0;
+  list-style:none;
+}
+
+img{
+  border:none;
+}
+body {
+    font: 14px/1.5 "Microsoft YaHei","\u5fae\u8f6f\u96c5\u9ed1",STXihei,"\u534e\u6587\u7ec6\u9ed1",STHeiti,"Times New Roman",SimSun,Arial;
+    color: #333;
+    
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
